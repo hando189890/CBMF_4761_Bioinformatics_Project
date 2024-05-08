@@ -11,6 +11,7 @@
 - `survive-model.ipynb`: This notebook is utilized to select the most significant and impactful genetic attributes using the Cox survival model. It also measures the AUC metrics for 3 different types of input.
 - `Model and Results - Genetic Attributes.ipynb`: This script is dedicated to training and testing with the Univariate Cox Regression for features selection, Multivariate Cox Regression to generate the risk score stratification which predicted patients’ survival, Kaplan-Meier method and Log-Rank test to show statistical difference in clinical attributes like the 3-gene classifier subtype and estrogen receptor status between high and low-risk groups.
 - `data.csv`: sample input
+- CBMF_4761_Bioinformatics_Final_Report.pdf
 
 ## Description of the METABRIC Dataset:
 - **Link:** [METABRIC Dataset](https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric)
